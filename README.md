@@ -26,20 +26,11 @@ Churn Rate = churned / total × 100 · Retention Rate = retained / total × 100 
 ## Rule-based risk score (illustrative, not machine learning)
 Month-to-month +2 · tenure < 6 months +2 · electronic check +1 · monthly charges above dataset median +1. Low 0–1, Medium 2–3, High 4–6. Already-churned customers are excluded. Rules whose column is unmapped are skipped and explained.
 
-## Screenshots
-Add images to `docs/screenshots/` and reference them here: `![Overview](docs/screenshots/overview.png)`.
-
 ## Limitations
 Rules are not statistically validated; the churn tab expects Yes/No-style values; the bundle is >500 kB (no code-splitting); not tested on very large files.
 
 ## Future enhancements
 Validated ML model, date-based trends, code-splitting, unit tests.
-
-## Deployment (Vercel)
-Push to GitHub, import the repo at vercel.com (framework: Vite, build `npm run build`, output `dist`). No environment variables needed. Every push to `main` redeploys.
-
-- GitHub repository: _add link here_
-- Live demo: _add link here_
 
 ## 🌐 Live Demo
 
