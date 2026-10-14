@@ -40,3 +40,7 @@ Push to GitHub, import the repo at vercel.com (framework: Vite, build `npm run b
 
 - GitHub repository: _add link here_
 - Live demo: _add link here_
+
+## 🌐 Live Demo
+
+**[Click here to visit the live website](https://data-quality-and-exploratory-analys.vercel.app/)**
