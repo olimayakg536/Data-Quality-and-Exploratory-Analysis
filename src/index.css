@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f5f8fc;color:#0f1f3d}
+.app{display:flex;min-height:100vh}.side{width:220px;background:#fff;border-right:1px solid #dbe3ef;padding:16px;flex-shrink:0}
+.side h1{font-size:18px;margin:0 0 16px;color:#1d4ed8}.nav{display:flex;align-items:center;gap:8px;width:100%;padding:10px;border:0;background:none;border-radius:8px;color:#0f1f3d;font-size:14px;cursor:pointer;text-align:left}
+.nav.on{background:#e0ecff;color:#1d4ed8;font-weight:600}.main{flex:1;padding:24px;min-width:0}h2{margin:0 0 4px}.sub{color:#475a7a;font-size:14px;margin:0 0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:16px}.card{background:#fff;border:1px solid #dbe3ef;border-radius:10px;padding:16px;margin-bottom:16px}
+.grid .card{margin:0}.kpi b{display:block;font-size:26px;margin-top:4px;color:#1d4ed8}.kpi span{font-size:13px;color:#475a7a}.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px}
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end;margin-bottom:16px}label{font-size:12px;color:#475a7a;display:flex;flex-direction:column;gap:4px}
+select,input[type=text],input[type=search]{padding:8px;border:1px solid #b9c6dc;border-radius:6px;font-size:14px;background:#fff;color:#0f1f3d}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:6px;border:1px solid #1d4ed8;background:#1d4ed8;color:#fff;font-size:14px;cursor:pointer;text-decoration:none}.btn.alt{background:#fff;color:#1d4ed8}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:8px;border-bottom:1px solid #e5ebf5;text-align:left}th{background:#f0f5fc}.wrap{overflow-x:auto}
+.tag{padding:2px 8px;border-radius:99px;font-size:12px;font-weight:600}.High{background:#fde2e2;color:#9b1c1c}.Medium{background:#fff1cc;color:#7a5200}.Low{background:#dcf5e5;color:#17663a}
+.err{background:#fde2e2;color:#9b1c1c;padding:10px;border-radius:8px;margin-bottom:12px}.note{background:#e0ecff;padding:10px;border-radius:8px;font-size:13px;margin-bottom:12px}
+@media(max-width:800px){.app{flex-direction:column}.side{width:100%;display:flex;flex-wrap:wrap;gap:4px;align-items:center}.side h1{width:100%;margin:0}.nav{width:auto}.main{padding:14px}}

@@ -1,0 +1,125 @@
+customerID,Contract,tenure,PaymentMethod,MonthlyCharges,Churn
+SYN-0001,Month-to-month,56,Mailed check,38.95,No
+SYN-0002,One year,20,Credit card,87.96,No
+SYN-0003,One year,39,Credit card,41.78,No
+SYN-0004,One year,42,Electronic check,81.55,No
+SYN-0005,Two year,49,Electronic check,66.17,No
+SYN-0006,One year,39,Bank transfer,102.08,No
+SYN-0007,Month-to-month,21,Credit card,49.90,Yes
+SYN-0008,Month-to-month,26,Mailed check,104.35,No
+SYN-0009,One year,53,Electronic check,44.61,No
+SYN-0010,One year,26,Electronic check,101.81,Yes
+SYN-0011,Month-to-month,21,Bank transfer,103.19,No
+SYN-0012,Month-to-month,25,Mailed check,52.80,No
+SYN-0013,Month-to-month,32,Bank transfer,40.99,No
+SYN-0014,Month-to-month,52,Bank transfer,77.09,No
+SYN-0015,One year,42,Credit card,55.70,No
+SYN-0016,Month-to-month,36,Mailed check,49.75,Yes
+SYN-0017,Two year,53,Electronic check,93.73,Yes
+SYN-0018,Month-to-month,10,Electronic check,109.66,Yes
+SYN-0019,One year,9,Mailed check,73.36,No
+SYN-0020,Two year,54,Credit card,99.67,No
+SYN-0021,Two year,17,Electronic check,42.35,Yes
+SYN-0022,Month-to-month,38,Electronic check,86.70,Yes
+SYN-0023,One year,15,Credit card,41.16,No
+SYN-0024,Two year,8,Mailed check,20.27,No
+SYN-0025,One year,56,Electronic check,101.00,Yes
+SYN-0026,Two year,34,Bank transfer,43.96,No
+SYN-0027,Month-to-month,34,Electronic check,89.25,No
+SYN-0028,One year,30,Electronic check,29.93,No
+SYN-0029,Month-to-month,42,Credit card,23.34,No
+SYN-0030,Two year,60,Credit card,88.84,No
+SYN-0031,Month-to-month,44,Credit card,55.85,Yes
+SYN-0032,Month-to-month,54,Bank transfer,51.63,No
+SYN-0033,One year,21,Bank transfer,58.05,No
+SYN-0034,Month-to-month,60,Credit card,76.92,No
+SYN-0035,Two year,12,Bank transfer,32.19,No
+SYN-0036,One year,47,Credit card,63.39,No
+SYN-0037,Month-to-month,10,Bank transfer,66.95,No
+SYN-0038,One year,46,Mailed check,87.58,Yes
+SYN-0039,Month-to-month,33,Electronic check,85.06,Yes
+SYN-0040,Month-to-month,40,Mailed check,26.78,No
+SYN-0041,Two year,55,Credit card,81.28,No
+SYN-0042,Month-to-month,46,Bank transfer,85.16,No
+SYN-0043,Month-to-month,9,Electronic check,29.74,Yes
+SYN-0044,Month-to-month,37,Credit card,37.28,Yes
+SYN-0045,Month-to-month,41,Electronic check,61.07,No
+SYN-0046,Month-to-month,41,Credit card,55.72,No
+SYN-0047,Month-to-month,14,Credit card,107.69,Yes
+SYN-0048,Two year,31,Electronic check,38.91,No
+SYN-0049,Month-to-month,5,Mailed check,78.19,Yes
+SYN-0050,Month-to-month,60,Electronic check,57.21,Yes
+SYN-0051,Month-to-month,1,Mailed check,28.22,Yes
+SYN-0052,Two year,47,Credit card,59.31,No
+SYN-0053,Two year,49,Bank transfer,71.49,No
+SYN-0054,Month-to-month,30,Mailed check,71.07,No
+SYN-0055,One year,38,Bank transfer,99.61,No
+SYN-0056,Two year,27,Mailed check,106.15,No
+SYN-0057,Month-to-month,5,Mailed check,99.44,No
+SYN-0058,One year,58,Credit card,38.64,No
+SYN-0059,Two year,7,Credit card,92.02,No
+SYN-0060,One year,33,Mailed check,98.48,No
+SYN-0061,Two year,17,Bank transfer,59.06,No
+SYN-0062,Month-to-month,36,Electronic check,100.90,No
+SYN-0063,Month-to-month,41,Credit card,30.43,Yes
+SYN-0064,Two year,1,Electronic check,55.75,Yes
+SYN-0065,One year,54,Electronic check,39.08,No
+SYN-0066,One year,11,Electronic check,76.39,Yes
+SYN-0067,Two year,36,Credit card,31.53,No
+SYN-0068,One year,58,Bank transfer,72.94,No
+SYN-0069,One year,45,Bank transfer,29.02,Yes
+SYN-0070,One year,14,Bank transfer,42.58,No
+SYN-0071,One year,38,Credit card,41.55,No
+SYN-0072,Month-to-month,42,Mailed check,91.28,No
+SYN-0073,Two year,7,Credit card,65.08,No
+SYN-0074,Month-to-month,52,Credit card,85.44,No
+SYN-0075,Two year,12,Bank transfer,33.91,No
+SYN-0076,Two year,58,Electronic check,26.93,No
+SYN-0077,Two year,53,Credit card,44.93,No
+SYN-0078,Month-to-month,29,Bank transfer,32.74,Yes
+SYN-0079,Month-to-month,14,Electronic check,24.00,Yes
+SYN-0080,One year,29,Credit card,85.53,No
+SYN-0081,One year,24,Bank transfer,106.87,No
+SYN-0082,Two year,43,Bank transfer,92.24,No
+SYN-0083,Month-to-month,44,Bank transfer,58.80,No
+SYN-0084,Month-to-month,30,Electronic check,25.97,Yes
+SYN-0085,Month-to-month,21,Electronic check,77.59,Yes
+SYN-0086,Month-to-month,1,Credit card,98.25,Yes
+SYN-0087,Two year,20,Mailed check,101.74,No
+SYN-0088,Month-to-month,60,Electronic check,77.86,Yes
+SYN-0089,Month-to-month,11,Credit card,87.85,Yes
+SYN-0090,Two year,49,Mailed check,61.33,No
+SYN-0091,Month-to-month,53,Credit card,81.04,No
+SYN-0092,Two year,50,Credit card,88.46,No
+SYN-0093,One year,18,Bank transfer,49.19,No
+SYN-0094,Month-to-month,51,Bank transfer,93.44,No
+SYN-0095,Two year,50,Electronic check,40.86,No
+SYN-0096,Month-to-month,35,Credit card,76.45,No
+SYN-0097,Two year,49,Electronic check,70.62,No
+SYN-0098,Month-to-month,33,Credit card,66.58,Yes
+SYN-0099,Month-to-month,15,Bank transfer,89.45,Yes
+SYN-0100,Month-to-month,37,Bank transfer,104.44,No
+SYN-0101,Month-to-month,37,Bank transfer,77.23,No
+SYN-0102,Month-to-month,13,Electronic check,50.01,No
+SYN-0103,Two year,39,Mailed check,51.26,No
+SYN-0104,Month-to-month,10,Electronic check,62.85,Yes
+SYN-0105,Month-to-month,39,Mailed check,61.17,Yes
+SYN-0106,Two year,17,Mailed check,30.94,No
+SYN-0107,Month-to-month,12,Bank transfer,72.03,No
+SYN-0108,Two year,30,Credit card,81.59,No
+SYN-0109,One year,45,Credit card,72.19,No
+SYN-0110,Month-to-month,60,Electronic check,29.29,Yes
+SYN-0111,Two year,54,Bank transfer,69.20,No
+SYN-0112,One year,47,Electronic check,93.07,No
+SYN-0113,One year,58,Mailed check,22.55,No
+SYN-0114,One year,37,Bank transfer,81.36,Yes
+SYN-0115,One year,59,Credit card,81.18,No
+SYN-0116,Month-to-month,38,Bank transfer,59.55,Yes
+SYN-0117,Two year,40,Credit card,47.70,No
+SYN-0118,Two year,35,Bank transfer,37.83,No
+SYN-0119,Month-to-month,26,Electronic check,71.08,No
+SYN-0120,Two year,6,Mailed check,75.31,No
+SYN-0005,Two year,49,Electronic check,66.17,No
+SYN-0009,One year,53,Electronic check,44.61,No
+SYN-0200, Month-to-month ,,Electronic check,65.5,No
+SYN-0201,One year,14,,abc,Yes
